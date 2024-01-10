@@ -1,0 +1,40 @@
+
+.signupForm{
+  max-width: 500px;
+  max-height: fit-content;
+  margin-left:1500px;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.signupForm h3 {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.signupForm label {
+ 
+  font-weight: 600;
+}
+.bg-img {
+
+  min-width: 100%;
+  min-height: 100%;
+  position: fixed;
+
+  background-image: url('https://neetable.com/img/blog/blog-inner/cost-to-develop-a-hospital-management-system/cost-to-develop-a-hospital-management-system.jpg');
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.signupForm .form-control {
+
+  font-weight: normal;
+  font-size: small;
+}
+
+.signupForm .d-grid {
+  margin-top: 24px;
+}

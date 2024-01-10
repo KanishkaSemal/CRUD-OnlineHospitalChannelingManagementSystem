@@ -1,0 +1,81 @@
+.leave-content{
+    margin-left: 380px;
+    margin-top: 60px;
+    color: black;
+}
+
+.h6, h6{
+    color: rgb(112, 112, 112);
+}
+
+.Saform-content{
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+.Saform1-content{
+    margin-top: 5px;
+    margin-left: 300px;
+}
+
+.Sasecond-content{
+    margin-left: 300px;
+}
+
+.Saform-check{
+    margin-left: 10px;
+}
+
+.Saform-control9{
+    width: 100%;
+    border-radius: 6px;
+    border: 4px #7e7c7c;
+    
+}
+
+.Saform-btn{
+    width: 200px;
+    margin-left: 400px;
+    color: azure;
+    background-color: rgb(2, 141, 2);
+}
+
+.SaLHome{
+    margin-top: 40px;
+}
+
+.Saform-btn:hover {
+
+    background-color: #4CAF50;
+  }
+
+
+.Sabtn-success{
+    background-color: #4CAF50;
+}
+
+.SaCbtn-success{
+    background-color: #4CAF50;
+    margin-top: 0px;
+  }
+
+.SC_update{
+    margin-top: 60px;
+}
+
+.Task-container{
+    margin-top: 80px;
+    margin-left: 400px;
+}
+
+.needs-validation{
+    margin-top: 40px;
+    margin-left: -150px;
+}
+
+
+
+
+  
+
+  

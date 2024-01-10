@@ -1,0 +1,365 @@
+.App {
+    width: 100vw;
+    height: 100%;
+  
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  
+  }
+ 
+  
+  
+  .main-wrapper {
+    height: 100vh;
+    background-color: #e7e9eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  /* .app-header {
+    height: 3.5vh;
+  
+  
+  } */
+  
+  /* @media screen and (min-height: 1200px) {
+    .app-header {
+      height: 7vh;
+    }
+  } */
+  
+  
+  
+  .app-body {
+    height: 90vh !important;
+  }
+  
+  .sidebar {
+    min-height: fit-content;
+  
+    background-color: #18778b;
+    min-height: 100vh;
+    position: fixed;
+    width: 160px;
+    margin-top: 44px;
+    margin-left: -10px;
+  
+  
+    /* sukitha */
+    /* min-height: 110vh;
+    max-height: fit-content;
+    max-height: 100vh; */
+  }
+  
+  .body-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    min-height: 100vh;
+    background-color: #e7e9eb;
+  }
+  
+  .app-sidebar {
+    flex-basis: 180px;
+  }
+  
+  .app-content {
+    flex-basis: 75%;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .sidebarList {
+    height: auto;
+    padding: 0;
+    width: 100%;
+    margin-top: 9px;
+  }
+  
+  .sidebarList li {
+    width: fit-content;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    color: rgb(60, 71, 81);
+    height: 60px;
+  }
+  
+  .sidebarList li i {
+    width: fit-content;
+    margin: 1rem 1rem;
+  }
+  
+  .sidebarList li:hover {
+    cursor: pointer;
+    background-color: #146474;
+  }
+  
+  .sidebarList li:active {
+    cursor: pointer;
+    background-color: #146474;
+  }
+  
+  .sidebarList a {
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    background-color: #146474;
+    font-size: small;
+  }
+  
+  .sidebarList a:hover {
+    color: rgb(0, 0, 0);
+  
+  }
+  
+  
+  
+  
+  /* .sidebar img {
+    margin-top: 4px;
+    width: 50px;
+    height: 50px;
+    background-color: slategrey;
+  } */
+  
+  .header {
+    display: block;
+    z-index: 9999
+  }
+  
+  .header img {
+  
+    width: fit-content;
+    height: 55px;
+    margin-top: -2px;
+  
+  
+    float: left;
+  
+    /* float: left; */
+  
+    /* width: 430px; */
+    /* padding: 5px 40px 5px 40px; */
+  }
+  
+  .app-header {
+    background-color: #18778b;
+    width: 100vw;
+    height: 3.5rem;
+    position: fixed;
+  
+    z-index: 9999
+  }
+  
+  .app-header button {
+    width: 7%;
+    height: 50%;
+    margin-top: 1rem;
+    margin-right: 20px;
+    float: right;
+    background-color: #0084B4;
+    border-color: #0084B4;
+  
+  }
+  
+  .input-error {
+    border: 1px solid red;
+  }
+  
+  
+  .printbtn {
+    width: 7%;
+    height: 50%;
+    margin-top: 1rem;
+    margin-right: 20px;
+    float: right;
+    background-color: #0084B4;
+    border-color: #0084B4;
+  
+  }
+  .input-error {
+    border: 1px solid red;
+  }
+  @media screen and (max-width: 700px) {
+  
+    .app-header button {
+      width: auto;
+    }
+  
+  
+  
+  }
+  
+  .app-header h3 {
+    text-align: right;
+  
+  }
+  
+  /* 
+  @media only screen and (max-width: 700px) {
+    body{
+      width:100%;
+    }
+    .app-header{
+        padding: 10px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-attachment: fixed;
+        background-position: initial;
+        width:auto;
+      
+      }
+      .app-header button{
+        width:auto;
+    }
+      
+  } */
+
+  .leave-content{
+    margin-left: 380px;
+    margin-top: 60px;
+    color: black;
+}
+
+.h6, h6{
+    color: rgb(112, 112, 112);
+}
+
+.form-content{
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+.form1-content{
+    margin-top: 5px;
+    margin-left: 300px;
+}
+
+.second-content{
+    margin-left: 300px;
+}
+
+.form-check{
+    margin-left: 10px;
+}
+
+/* .mp-3{
+    width: 600px;
+    height: 100px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+} */
+
+.form-btn{
+    width: 100px !important;
+}
+
+
+/* .Siform-btn{ */
+
+/* .btn-primary{
+
+    margin-left: 400px;
+    color: azure;
+    width: 200px;
+    background-color: rgb(2, 141, 2);
+    
+
+  } 
+.Siform-btn:hover {
+
+  } */
+.btn-primary:hover {
+
+    background-color: #4CAF50;
+  }
+
+  .login-form {
+    max-width: 400px;
+    margin: 60px auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-form__title {
+    margin-bottom: 20px;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .login-form__submit-button {
+    margin-top: 20px;
+  }
+  form1 {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-left: 800px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form h3 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  form label {
+    font-weight: bold;
+  }
+  
+  form input,
+  form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0069d9;
+  }
+  
+  .forgot-password {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .forgot-password a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .forgot-password a:hover {
+    text-decoration: underline;
+  }
+  .form-control1{
+    margin-left: 10px;
+  }

@@ -1,0 +1,36 @@
+.login-form {
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-form__title {
+  margin-bottom: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.login-form__submit-button {
+  margin-top: 20px;
+}
+.form-control{
+  font-weight: bold;
+}
+
+.form-label{
+  font-weight: bold;
+}
+.bg-img {
+
+  min-width: 100%;
+  min-height: 100%;
+  position: fixed;
+
+  background-image: url('https://neetable.com/img/blog/blog-inner/cost-to-develop-a-hospital-management-system/cost-to-develop-a-hospital-management-system.jpg');
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

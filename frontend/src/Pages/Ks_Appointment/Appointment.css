@@ -1,0 +1,82 @@
+.Ksappointment-content {
+  
+    color: black;
+    margin-top: 60px;
+    margin-left: 350px;
+    
+  }
+  .Ksform-content{
+    margin-top: 35px;
+    margin-left: 250px;
+  }
+  .Ksform2-content{
+    margin-top: 5px;
+    margin-left: 250px;
+  }
+
+  .Ksform-btn1{
+    width: 160px;
+    margin-top: 30px ;
+    background-color: #0072ff;
+    color: black;
+    margin-left: 70px;
+  }
+
+  
+  .Ksform3-content{
+    margin-left: 250px;
+  }
+  .dropdown{
+    color: bisque;
+  }
+  
+  .Ksapp-dashboard button {
+
+    width: 150px;
+    height: 110px;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin: 2em;
+    margin-top: 150px;
+    margin-left: 80px;
+    border-radius: 12px;
+    float: right;
+    background-image: linear-gradient(to right, #00c6ff 0%, #0072ff 51%, #00c6ff 100%);
+    border-color: #0084B4;
+
+  }
+  .Ks_table{
+    
+    
+      font-size: 16px;
+      width: 100%;
+      height: 300px;
+  
+        
+  }
+  .KsHome{
+    margin-top: 140px;
+    margin-left:350px;
+  }
+  .KsUpdate{
+    margin-top: 60px;
+   
+  }
+
+  .Ks_Button{
+    margin-left: 980px;
+  }
+
+  .KsDashName{
+    margin-top: 100px;
+    margin-left:300px ;
+  }
+  
+  
+  .imgks {
+    max-width: 90%;
+    height: auto;
+    margin-left: auto;
+  }
+  
+  

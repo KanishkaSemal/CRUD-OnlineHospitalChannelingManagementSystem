@@ -1,0 +1,73 @@
+.leave-content{
+    margin-left: 380px;
+    margin-top: 60px;
+    color: black;
+}
+
+.h6, h6{
+    color: rgb(112, 112, 112);
+}
+
+.form-content{
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+.form1-content{
+    margin-top: 5px;
+    margin-left: 300px;
+}
+
+.second-content{
+    margin-left: 300px;
+}
+
+.form-check{
+    margin-left: 10px;
+}
+
+.mp-3{
+    width: 600px;
+    height: 100px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+.form-btn{
+    width: 100px !important;
+}
+
+
+ 
+
+.Siform-btn{
+    margin-left: 400px;
+    color: azure;
+    width: 200px;
+    background-color: rgb(2, 141, 2);
+}
+
+/* .Siform-btn{ */
+ 
+
+
+/* .btn-primary{
+    margin-left: 400px;
+    color: azure;
+    width: 200px;
+    background-color: rgb(2, 141, 2);
+  } */
+/* .Siform-btn:hover {} */
+
+/* .Siform-btn:hover {
+ 
+} */
+.btn-primary:hover {
+    background-color: #4CAF50;
+}
+
+.salary-table{
+    position: absolute !important;
+    left: 20% !important;
+}
+  
