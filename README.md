@@ -16,7 +16,7 @@
 4. Run the application on our local server.
 
 
-Thank you for visiting our repository, and we look forward to your active involvement in making the Vehicle Insurance Management System even more exceptional!
+Thank you for visiting My repository!
 
 <h3 align="left">Ask anything:</h3>
 <p align="left">
